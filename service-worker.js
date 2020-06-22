@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.42fb248aa5cc8e413e354bb2a7560225.js"
+  "/precache-manifest.369bedb31c6981dc958461008894a139.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "conquer-the-world"});
